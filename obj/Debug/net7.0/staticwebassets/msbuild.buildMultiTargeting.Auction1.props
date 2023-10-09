@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Auction1.props" />
+</Project>
